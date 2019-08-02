@@ -1,0 +1,5 @@
+http://www.linuxfromscratch.org/patches/lfs/8.4/bzip2-1.0.6-install_docs-1.patch
+http://www.linuxfromscratch.org/patches/lfs/8.4/coreutils-8.30-i18n-1.patch
+http://www.linuxfromscratch.org/patches/lfs/8.4/glibc-2.29-fhs-1.patch
+http://www.linuxfromscratch.org/patches/lfs/8.4/kbd-2.0.4-backspace-1.patch
+http://www.linuxfromscratch.org/patches/lfs/8.4/sysvinit-2.93-consolidated-1.patch
